@@ -8,7 +8,8 @@
 - Interested in embedded systems and data science.
 ## Connections
 <a href="https://www.linkedin.com/in/omar-salah-7a9287218/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="100" /></a>
-<a href="https://codeforces.com/profile/osazizsg1" target="blank">Codeforces
+<a href="https://codeforces.com/profile/osazizsg1" target="blank">![codeforces](https://user-images.githubusercontent.com/87082462/193076065-bbe3b1b4-5b0c-4590-a0c1-27b73f8c2339.svg)
+
 
 <!--
 **Omar-Said-4/Omar-Said-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
