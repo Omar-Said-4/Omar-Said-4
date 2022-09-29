@@ -11,7 +11,12 @@
 <a href="https://mail.google.com/a/?view=cm&fs=1&to=osazizsg1@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504727.png" height="100" /></a>
 <a href="https://codeforces.com/profile/osazizsg1" target="blank"><img align="center" src="https://lh3.googleusercontent.com/evT0PYVOtM884y9n-UL4OW-Lp8L8FJcgdXM1GWAX0lLEaETdOX-g_S9aEI_WF4Mvcvw=s150-rw" height="100" /></a>
 ### 🛠️**Languages and Tools:**
-
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/28/28908.png" height="100" /></a>
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/3541/3541190.png" height="100" /></a>
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" height="100" /></a>
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" height="100" /></a>
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/919/919852.png" height="100" /></a>
+<img align="center" src="https://www.jackenhack.com/wp-content/uploads/2020/01/Quartus_prime_icon.png" height="100" /></a>
 <!--
 **Omar-Said-4/Omar-Said-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
