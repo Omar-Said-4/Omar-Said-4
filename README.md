@@ -6,7 +6,7 @@
 - An enthusiastic learner.
 - Trying to improve my problem solving skills. 
 - Interested in embedded systems and data science.
-
+## Connect with me
 
 <!--
 **Omar-Said-4/Omar-Said-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
