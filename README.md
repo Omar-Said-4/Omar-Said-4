@@ -18,8 +18,7 @@
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/919/919852.png" height="100" /></a>
 <img align="center" src="https://www.jackenhack.com/wp-content/uploads/2020/01/Quartus_prime_icon.png" height="100" /></a>
 <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQunx8KaQO3cxFxruDg6mDj8G0w0_K1YvIA8AYecSQx2216hU2NDKt85JD58mFrIAgbqm4&usqp=CAU" height="100" /></a>
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQunx8KaQO3cxFxruDg6mDj8G0w0_K1YvIA8AYecSQx2216hU2NDKt85JD58mFrIAgbqm4&usqp=CAU
-<!--
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Omar-Said-4&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)<!--
 **Omar-Said-4/Omar-Said-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
