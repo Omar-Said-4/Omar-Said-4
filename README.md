@@ -1,7 +1,8 @@
 ### Hi there 👋
-<a href="URL_REDIRECT" target="blank"><img align="center" src="[URL_TO_YOUR_IMAGE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgr.pinterest.com%2Fpin%2F514184482467112543%2F&psig=AOvVaw26oBv8C62uEdzsXJB_L_vw&ust=1664550323905000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOj6oa6juvoCFQAAAAAdAAAAABAP)" height="100" /></a>
-
 # I'm Omar Said a computer engineering student
+
+![1733b070075597d4b401929cfd35bbcb](https://user-images.githubusercontent.com/87082462/193068817-07d7b55c-aca6-49b6-b807-d050c05e65e5.gif)
+
 
 <!--
 **Omar-Said-4/Omar-Said-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
