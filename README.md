@@ -10,8 +10,7 @@
 <a href="https://www.linkedin.com/in/omar-salah-7a9287218/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="100" /></a>
 
 <a href="https://codeforces.com/profile/osazizsg1" target="blank">![download (1)](https://user-images.githubusercontent.com/87082462/193077410-44abc02f-a39a-46bf-9cc8-f0350e20dad4.svg)
-
-
+<a href="osazizsg1@gmail.com" target="blank">omar
 
 
 <!--
