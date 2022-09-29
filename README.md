@@ -9,7 +9,7 @@
 ## Connections
 <a href="https://www.linkedin.com/in/omar-salah-7a9287218/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="100" /></a>
 
-<a href="https://codeforces.com/profile/osazizsg1" target="blank">![codeforces (2)](https://user-images.githubusercontent.com/87082462/193076643-6a1efbe2-fb59-4ba6-9316-cce1f73634fd.svg)
+<a href="https://codeforces.com/profile/osazizsg1" target="blank">![download](https://user-images.githubusercontent.com/87082462/193077265-3ee604e8-fc08-4c0a-a5da-335d066c6b96.svg)
 
 
 
