@@ -6,7 +6,9 @@
 - An enthusiastic learner.
 - Trying to improve my problem solving skills. 
 - Interested in embedded systems and data science.
-## Connect with me
+## Connections
+<a href="https://www.linkedin.com/in/omar-salah-7a9287218/" target="blank"><img align="center" src="[URL_TO_YOUR_IMAGE](https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&page=1&position=1&page=1&position=1&related_id=3536505&origin=search)" height="100" /></a>
+
 
 <!--
 **Omar-Said-4/Omar-Said-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
