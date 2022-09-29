@@ -2,7 +2,7 @@
 # I'm Omar Said a computer engineering student
 
 ![1733b070075597d4b401929cfd35bbcb](https://user-images.githubusercontent.com/87082462/193068817-07d7b55c-aca6-49b6-b807-d050c05e65e5.gif)
-💻 ## About me:
+### 💻 About me:
 
 
 <!--
