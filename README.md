@@ -20,4 +20,4 @@
 <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQunx8KaQO3cxFxruDg6mDj8G0w0_K1YvIA8AYecSQx2216hU2NDKt85JD58mFrIAgbqm4&usqp=CAU" height="100" /></a>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Omar-Said-4&theme=synthwave)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Omar-Said-4&theme=python-dark)](https://git.io/streak-stats)
