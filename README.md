@@ -7,9 +7,9 @@
 - Trying to improve my problem solving skills. 
 - Interested in embedded systems and data science.
 ## Connections
-<a href="https://www.linkedin.com/in/omar-salah-7a9287218/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="50" /></a>
+<a href="https://www.linkedin.com/in/omar-salah-7a9287218/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50" /></a>
 <a href="https://mail.google.com/a/?view=cm&fs=1&to=osazizsg1@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50" /></a>
-<a href="https://codeforces.com/profile/osazizsg1" target="blank"><img align="center" src="https://lh3.googleusercontent.com/evT0PYVOtM884y9n-UL4OW-Lp8L8FJcgdXM1GWAX0lLEaETdOX-g_S9aEI_WF4Mvcvw=s150-rw" height="50" /></a>
+<a href="https://codeforces.com/profile/osazizsg1" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" height="50" /></a>
 ### 🛠️**Languages and Tools:**
 <img align="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="50" /></a>
 <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="50" /></a>
