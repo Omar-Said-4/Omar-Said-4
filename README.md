@@ -17,7 +17,7 @@
 <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="50" /></a>
 <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="50" /></a>
 <img align="center" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="50" /></a>
-<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQunx8KaQO3cxFxruDg6mDj8G0w0_K1YvIA8AYecSQx2216hU2NDKt85JD58mFrIAgbqm4&usqp=CAU" height="100" /></a>
+<img align="center" src="https://img.shields.io/badge/Embedded%20C-%20-blue" height="50" /></a>
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Omar-Said-4&theme=python-dark)](https://git.io/streak-stats)
