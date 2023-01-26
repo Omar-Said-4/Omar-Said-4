@@ -24,6 +24,5 @@
 <img align="center" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" height="30" /></a>
 <img align="center" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" height="30" /></a>
 
-![](https://komarev.com/ghpvc/?username=Omar-Said-4)
-
+![Profile views](https://gpvc.arturio.dev/[Omar-Said-4])
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Omar-Said-4&theme=python-dark)](https://git.io/streak-stats)
