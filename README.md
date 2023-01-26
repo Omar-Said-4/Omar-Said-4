@@ -24,7 +24,7 @@
 <img align="center" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" height="30" /></a>
 <img align="center" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" height="30" /></a>
 
-    <div align="center">
+   <div align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Omar-Said-4&theme=python-dark)](https://git.io/streak-stats)
   </div>
       <div align="center">
