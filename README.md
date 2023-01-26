@@ -26,7 +26,7 @@
 
    <div align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Omar-Said-4&theme=python-dark)](https://git.io/streak-stats)
-  </div>
+   </div>
       <div align="center">
 ![Profile views](https://gpvc.arturio.dev/Omar-Said-4)
       </div>
