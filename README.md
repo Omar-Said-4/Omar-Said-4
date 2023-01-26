@@ -24,6 +24,6 @@
 <img align="center" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" height="30" /></a>
 <img align="center" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" height="30" /></a>
 
-https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter
+https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Omar-Said-4}1212%2Fhit-counter
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Omar-Said-4&theme=python-dark)](https://git.io/streak-stats)
