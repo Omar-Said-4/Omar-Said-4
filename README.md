@@ -5,7 +5,7 @@
 ### 💻 **About me:**
 - An enthusiastic learner.
 - Trying to improve my problem solving skills. 
-- Interested in embedded systems and data science.
+- Interested in embedded systems, ML, DevOPs and Cyber Security.
 ## Connections
 <a href="https://www.linkedin.com/in/omar-salah-7a9287218/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50" /></a>
 <a href="https://mail.google.com/a/?view=cm&fs=1&to=osazizsg1@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50" /></a>
