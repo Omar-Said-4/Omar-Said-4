@@ -25,4 +25,6 @@
 
 
 
-[![](https://visitcount.itsvg.in/api?id=Omar-Said-4&icon=1&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  ![](https://visitcount.itsvg.in/api?id=Omar-Said-4&icon=1&color=0)
+</p>
