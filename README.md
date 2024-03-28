@@ -26,5 +26,5 @@
 
 
 <p align="center">
-  ![](https://visitcount.itsvg.in/api?id=Omar-Said-4&icon=1&color=0)
+  !["Visit Count Badge"](https://visitcount.itsvg.in/api?id=Omar-Said-4&icon=1&color=0)
 </p>
