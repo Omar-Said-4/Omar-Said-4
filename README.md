@@ -25,7 +25,5 @@
 
 
 
-<div align="center">
-    <img src="https://visitcount.itsvg.in/api?id=Omar-Said-4&icon=1&color=0" alt="Visit Count">
-</div>
+
 
